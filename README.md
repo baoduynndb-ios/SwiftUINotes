@@ -36,6 +36,6 @@
 
 ## Create Notes View
 
-![](create-notes.png)
+![](create-note.png)
 
 - Dùng để tạo note
