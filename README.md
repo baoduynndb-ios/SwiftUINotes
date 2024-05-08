@@ -20,7 +20,7 @@
 
 ## All Notes View
 
-![](all-notes-view.png)
+![](all-user-notes.png)
 
 - Dùng để xem tất cả note của tất cả User
 
@@ -28,7 +28,7 @@
 
 ## My Notes View
 
-![](my-notes-view.png)
+![](my-notes.png)
 
 - Dùng để xem tất cả note của mình
 
@@ -36,6 +36,6 @@
 
 ## Create Notes View
 
-![](create-notes-view.png)
+![](create-notes.png)
 
 - Dùng để tạo note
