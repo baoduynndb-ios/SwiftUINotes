@@ -6,8 +6,9 @@
 
 - Create Account
 - Login Account
-- Create
 - Get all notes, get notes from account
+- Create note
+- Đây là lần đầu em code bằng SwiftUI nếu được có cơ hội để làm việc chung thì em sẽ học hỏi và trau chuốt nhiều hơn
 
 ## Login View
 
